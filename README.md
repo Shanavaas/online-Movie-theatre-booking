@@ -51,6 +51,4 @@ https://user-images.githubusercontent.com/34683520/116861962-a1992a80-ac21-11eb-
 
 
 ### This project is done by :
-1. [Sharan Giri](https://github.com/sharan0276)
-2. [Shanmuga Priya M G](https://github.com/Priya1401) 
-3. [Srinithyee S K](https://github.com/Srinithyee)
+1. [Shanavaas J]
